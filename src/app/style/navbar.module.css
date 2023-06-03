@@ -1,0 +1,22 @@
+.maincontainer{
+    background-color: white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    /* justify-content: center; */
+}
+
+.navimage{
+    margin-left: 60px;
+
+}
+
+.navtext{
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    gap: 100px;
+    margin-left: 500px;
+}
